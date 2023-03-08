@@ -1,0 +1,59 @@
+body {
+    background-color: #03001C;
+    color: white;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+
+    position: relative;
+    bottom: 70px;
+    text-align: center;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Cousine', monospace;
+
+}
+
+
+#DiceSection {
+    color: white;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Cousine', monospace;
+
+
+    
+}
+H1{
+    font-size: 8rem;
+    text-align: center;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Cousine', monospace;
+    
+    
+}
+.ImageClass{
+    height: 200px;
+    width: 200px;
+    padding-top:20px;
+    
+}
+
+.TagLine{
+    display: inline-block;
+    position: absolute;
+    top:110px;
+    left: 740px;
+    
+}
+.Quote{
+    width: 915px;
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+}
+.Author{
+    width: 915px;
+    display: inline-block;
+    font-size: 1.0rem;
+    margin: 0;
+}
