@@ -44,16 +44,54 @@ H1{
     top:110px;
     left: 740px;
     
+    
 }
 .Quote{
     width: 915px;
     display: inline-block;
     font-size: 1.5rem;
+    margin-top: 57px;
     margin-bottom: 8px;
+    text-align: left;
 }
 .Author{
     width: 915px;
     display: inline-block;
     font-size: 1.0rem;
     margin: 0;
+    margin-top: 20px;
+    text-align: right;
+}
+
+@media (max-width: 900px) {
+    body {
+        margin-top: 50px;
+    }
+
+    .ImageClass{
+        height: 300px;
+        width: 300px;
+        padding-top:30px;
+        
+    }
+    #DiceSection{
+        margin-top: 30px;
+    }
+    #QuoteSection{
+        margin-top: 30px; 
+    }
+    .Quote{
+        width: 915px;
+        display: inline-block;
+        font-size: 1.3rem;
+        margin-bottom: 8px;
+    }
+    .Author{
+        width: 915px;
+        display: inline-block;
+        font-size: 0.9rem;
+       
+        
+    }
+
 }
