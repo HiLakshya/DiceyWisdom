@@ -28,3 +28,14 @@ document.addEventListener("click", function(){
     generateRandomNumber();
     generateRandomQuote();
 });
+
+
+function Musics() {
+    var audio = new Audio('nggyu.mp3');
+    audio.play();
+}
+document.addEventListener("click", function () {
+    generateRandomNumber();
+    generateRandomQuote();
+    Musics();
+});
