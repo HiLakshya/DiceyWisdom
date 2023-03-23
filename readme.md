@@ -27,7 +27,7 @@ Check out the live demo of the project [here](https://hilakshya.github.io/DiceyW
 
 ## Status
 
-This project is currently under development. The basic functionality is already in place, but future updates may include:
+This project is currently under development. The basic functionality is already in place but future updates may include:
 - Improved design and layout
 - More quotes and authors to choose from
 - Integration with a database or API to generate more diverse content
